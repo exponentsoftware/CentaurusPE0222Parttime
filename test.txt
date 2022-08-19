@@ -1,4 +1,4 @@
 Added a random line
 My first commit
 new branch created
-Added a readme text
+added a readme text
