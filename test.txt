@@ -2,3 +2,4 @@ Added a random line
 My first commit
 my second commit
 Added new heading Hello Centaurus
+Added new text in readme "good day"
