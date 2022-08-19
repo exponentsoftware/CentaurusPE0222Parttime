@@ -1,4 +1,9 @@
 Added a random line
 My first commit
+
 new branch created
 added a readme text
+
+my second commit
+Added new heading Hello Centaurus
+Added new text in readme "good day" day in italian
