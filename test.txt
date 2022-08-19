@@ -3,3 +3,4 @@ My first commit
 my second commit
 Added new heading Hello Centaurus
 Added new text in readme "good day" day in italian
+Modified spelling error in centaurus0222 to centaurus2022 in readme
